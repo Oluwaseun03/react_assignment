@@ -1,0 +1,25 @@
+List five significant features of React
+
+One-way Data Binding, Performance, JSX.Components, Virtual DOM, Simplicity.
+
+List five major advantages of React
+
+It allows writing custom Components
+It is easy to Learn
+It allows for Speed
+It is very Flexible
+It helps build rich User Interface
+
+What is the name of the Software Engineer that created React? Also, which company owns React?
+
+React was created by Jordan Walke, a software engineer at Facebook
+
+Major differences between HTML & JSX
+
+All tags in JSX are self-close
+JSX returns a single parent element
+JavaScript can be implemented in JSX directly 
+
+Why browsers can't read JSX
+
+there is no inherent implementation for the browser engines to read and understand it.
